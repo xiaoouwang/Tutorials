@@ -1,0 +1,14 @@
+model_name,f1,accuracy,recall,training_time,data_size,batch_size,learning_rate,epochs
+bert-base-uncased,0.57,0.61,0.61,53.86,1800,10,2e-05,1
+distilbert-base-uncased,0.70,0.70,0.70,32.95,1800,10,2e-05,1
+bert-base-multilingual-uncased,0.83,0.83,0.83,55.08,1800,10,2e-05,1
+camembert-base,0.93,0.94,0.94,53.17,1800,10,2e-05,1
+camembert/camembert-large,0.95,0.95,0.95,143.56,1800,10,2e-05,1
+camembert/camembert-base-ccnet,0.94,0.94,0.94,53.12,1800,10,2e-05,1
+camembert/camembert-base-ccnet-4gb,0.93,0.93,0.93,53.02,1800,10,2e-05,1
+camembert/camembert-base-oscar-4gb,0.93,0.94,0.94,53.04,1800,10,2e-05,1
+camembert/camembert-base-wikipedia-4gb,0.81,0.81,0.81,53.14,1800,10,2e-05,1
+flaubert/flaubert_small_cased,0.60,0.60,0.60,25.47,1800,10,2e-05,1
+flaubert/flaubert_base_uncased,0.80,0.80,0.80,58.03,1800,10,2e-05,1
+flaubert/flaubert_base_cased,0.78,0.78,0.78,57.78,1800,10,2e-05,1
+flaubert/flaubert_large_cased,0.77,0.77,0.77,123.66,1800,10,2e-05,1

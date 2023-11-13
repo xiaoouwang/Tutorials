@@ -1,0 +1,7 @@
+accelerate==0.24.0
+datasets==2.14.6
+nlpbaselines
+transformers==4.34.1
+sentencepiece
+sacremoses
+protobuf
